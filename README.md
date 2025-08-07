@@ -1,7 +1,7 @@
 # 🛒 Carrito Compras | Prueba Técnica 2025
 
 Solución profesional para la prueba técnica de agosto 2025.
-
+Aplicación web desarrollada en React + Vite para simular un carrito de compras interactivo, donde el usuario puede ver productos, agregarlos al carrito, eliminar, ver el total y calcular la mejor combinación por presupuesto. Interfaz minimalista, responsiva y profesional, conectada al backend vía API REST.
 ---
 
 ## 🚀 Tecnologías utilizadas
