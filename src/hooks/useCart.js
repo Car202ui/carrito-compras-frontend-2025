@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import api from '../services/api';
+import api from '../Services/api';
 
 export default function useCart() {
   const [cart, setCart] = useState({ items: [] });
