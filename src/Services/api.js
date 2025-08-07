@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:8083/api',
+  baseURL: 'https://carrito-compras-tecnica-2025-production.up.railway.app/api',
 });
 
 
